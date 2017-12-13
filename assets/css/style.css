@@ -1,1 +1,4 @@
-background-image: url("game image.jpeg");
+body {
+
+	background-image:("game image.jpeg");
+}
